@@ -278,7 +278,7 @@ int main(int argc, char **argv)
 
 ```
 ## OUTPUT:
-
+https://efficient-fuchsia-ymp1nzw60s.edgeone.app/
 
 ## RESULT:
 The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
